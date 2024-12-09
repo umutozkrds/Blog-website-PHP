@@ -35,8 +35,8 @@ include("login_process.php");
 
               <form method="POST">
                 <div class="mb-3">
-                  <label for="email" class="form-label">E-posta</label>
-                  <input type="email" class="form-control" id="email" name="email" placeholder="E-posta adresiniz" required>
+                  <label for="username" class="form-label">Kullanıcı adı</label>
+                  <input type="text" class="form-control" id="username" name="username" placeholder="Kullanıcı Adınız" required>
                 </div>
                 <div class="mb-3">
                   <label for="password" class="form-label">Şifre</label>

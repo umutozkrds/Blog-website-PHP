@@ -50,9 +50,9 @@ include('register_process.php');
                   <button type="submit" class="btn btn-primary">Kayıt Ol</button>
                 </div>
               </form>
-              <p class="mt-3 text-center">Zaten hesabınız var mı? <a href="login.html">Giriş Yap</a></p>
+              <p class="mt-3 text-center">Zaten hesabınız var mı? <a href="login.php">Giriş Yap</a></p>
             </div>
-          </div>
+          </div>  
         </div>
       </div>
     </div>
